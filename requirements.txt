@@ -1,7 +1,7 @@
 altair==5.3.0
 av==12.3.0
 matplotlib==3.8.0
-opencv_contrib_python==4.10.0.82
+opencv-python-headless==4.6.0.66
 pandas==2.2.2
 Pillow==10.4.0
 streamlit==1.36.0
